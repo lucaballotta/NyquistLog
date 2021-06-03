@@ -13,3 +13,5 @@ References:
 Trond Andresen (2021). Nyquist plot with logarithmic amplitudes (https://www.mathworks.com/matlabcentral/fileexchange/7444-nyquist-plot-with-logarithmic-amplitudes), MATLAB Central File Exchange. Retrieved June 3, 2021.
 
 Federica Grossi (2021). Closed Logarithmic Nyquist plot (https://www.mathworks.com/matlabcentral/fileexchange/43768-closed-logarithmic-nyquist-plot), MATLAB Central File Exchange. Retrieved June 3, 2021.
+
+[![View Complete Nyquist plot on logarithmic scale on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/93390-complete-nyquist-plot-on-logarithmic-scale)
